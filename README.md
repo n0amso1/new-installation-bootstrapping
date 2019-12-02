@@ -20,6 +20,7 @@
 # Applications
 
 ## Firefox
+* Fix tearing by using `force-acceleration`
 * SurfingKeys
 * AdBlock Plus
 * Change Firefox `about:config` to add smooth scrolling support - the required changes are described in a separate file.
