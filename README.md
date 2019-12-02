@@ -22,8 +22,7 @@
 ## Firefox
 * SurfingKeys
 * AdBlock Plus
-* Firefox scrolling according to `loopy750` on:
-  https://www.reddit.com/r/firefox/comments/7d8xxe/fix_for_choppy_scrolling/
+* Change Firefox `about:config` to add smooth scrolling support - the required changes are described in a separate file.
 
 ## Community IDEs:
 * Pycharm
