@@ -7,6 +7,7 @@
 
 ## Terminal
 * Color scheme
+* Infinite scrolling
 * Preferrably bi-directional support with UTF-8 for apps like ranger
 * Install Zsh
 ### Oh-My-Zsh extensions
