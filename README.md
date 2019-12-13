@@ -30,4 +30,5 @@
 * IntelliJ
 
 ## Editors:
-* VSCode automatically installed with Python and C extensions.
+* VSCode automatically installed with Python and C extensions.  
+Edit VSCode config: don't open files as _"preview"_ (which auto-closes when opening another window)
