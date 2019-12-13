@@ -3,6 +3,7 @@
 ## Post-installation problems to address
 * Screen tearing
 * Issue https://github.com/systemd/systemd/issues/13943 requires early KMS boot
+* Add input languages
 
 ## Terminal
 * Color scheme
@@ -13,6 +14,8 @@
 * Vim bindings for terminal
 
 ## Remapping
+* Map `Alt+Shift` to change input language.  
+Fix bug where only left `Alt+Shift` works, but changing input language by right `Alt+Shift` works only on English.
 * Remap `CAPS LOCK` to `Esc`
 * Remap `Fn`/`Right-click` to `Winkey` 
 * `Alt+J` to `Down Arrow`, `Alt+K` to `Up Arrow`
